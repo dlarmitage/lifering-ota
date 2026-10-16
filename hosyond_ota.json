@@ -2,7 +2,7 @@
   "board": "hosyond_esp32s3",
   "version": "0.3.1",
   "enabled": true,
-  "url": "https://raw.githubusercontent.com/dlarmitage/lifering-ota/a95fa000df3565858359e9af07aada0729dc0b8b/releases/0.3.1/hosyond_esp32s3.bin",
-  "sha256": "dd7eb433ca46b4b17b36fab9a890971ab0a9c7c3a390a4238a397759bcceeea4",
+  "url": "https://raw.githubusercontent.com/dlarmitage/lifering-ota/21f9f804f23229405e093faa248f57508bd0b7d1/releases/0.3.1/hosyond_esp32s3.bin",
+  "sha256": "db7e62dd10081ac1724380b95ad736f187cf02972a09e63c61203b95d43feaab",
   "min_version": "0.1.0"
 }
